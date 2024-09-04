@@ -34,7 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(),
       body: Container(
-        child: Text(''),
+        child: Text('Hello'),
       ),
     );
   }
